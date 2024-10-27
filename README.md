@@ -1,0 +1,2 @@
+# ObfuscationPowerShellReverseshell
+Obfuscation Script for PowerShell Commands
