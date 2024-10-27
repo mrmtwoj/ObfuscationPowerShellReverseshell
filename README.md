@@ -66,7 +66,7 @@ Purpose: Accepts user input for IP address and port, validating their formats.
 + Parameters: length (default is 10).
 + Returns: A random string using ascii_letters and digits.
 
-$$ replace_ip_and_port()
+## replace_ip_and_port()
 + Purpose: Replaces placeholders for IP (*LHOST*) and port (*LPORT*) with the user-provided values.
 + Parameters: script, ip, port.
 
