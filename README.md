@@ -35,8 +35,8 @@ This script allows the user to input an IP address and port, then modifies a pro
 ## Installation
 Clone the repository and navigate to the project folder:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git https://github.com/mrmtwoj/ObfuscationPowerShellReverseshell.git
+cd ObfuscationPowerShellReverseshell
 ```
 ## Usage
 Run the script using the command:
